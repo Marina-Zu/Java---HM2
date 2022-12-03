@@ -1,0 +1,6 @@
+дек. 03, 2022 7:40:04 PM task2 main
+SEVERE: 5 / 5 = 1  
+дек. 03, 2022 7:41:18 PM task2 main
+SEVERE: 12 / 6 = 2  
+дек. 03, 2022 7:41:50 PM task2 main
+SEVERE: 4 * 0 = 0  
